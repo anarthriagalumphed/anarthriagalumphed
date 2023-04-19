@@ -1,4 +1,4 @@
-<img src="banner.img" alt="Banner Image">
+<img src="banner.png" alt="Banner Image">
 
 <h1 align="center">Hi 👋, I'm Galih Mahendra Putra</h1>
 
